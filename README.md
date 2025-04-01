@@ -8,7 +8,7 @@ This program is a terminal application that allows the user to type in responses
 ![image](https://user-images.githubusercontent.com/73504127/219126441-f1f7fe7e-a779-4f12-914a-1c0d8e867b8a.png)
 
 
-<h3>Testing </h3>
+<h3>Testings </h3>
 
 ![image](https://user-images.githubusercontent.com/73504127/219125251-d25ee205-590f-4c0b-9888-e5667fcf0040.png)
 
